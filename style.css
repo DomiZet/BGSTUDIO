@@ -1,0 +1,89 @@
+
+body {
+    margin: 0;
+    background-color: #fff;
+}
+
+
+
+
+
+
+/* ------------------------------ MENU SECTION ------------------------------ */
+
+
+.menu__section {
+    background-color: #00adbd;
+    height: 700px;
+}
+
+
+
+
+
+
+/* ------------------------------ ABOUT SECTION ------------------------------ */
+
+.about__section {
+    height: 840px;
+}
+
+
+
+
+
+
+/* ------------------------------ CONTACT SECTION ------------------------------ */
+
+
+.contact__section {
+    background-color: #9068be;
+    height: 140px;
+}
+
+
+
+
+
+
+/* ------------------------------ ACTIVITY SECTION ------------------------------ */
+
+.activity__section {
+    background-color: #f6f6f6;
+    height: 775px;
+}
+
+
+
+
+
+
+/* ------------------------------ FEEDBACK SECTION ------------------------------ */
+
+.feedback__section {
+    height: 730px;
+}
+
+
+
+
+
+
+
+/* ------------------------------ CAREER SECTION ------------------------------ */
+
+.career__section {
+    background-color: #376a6f;
+    height: 550px;
+}
+
+
+
+
+
+
+/* ------------------------------ FOOTER SECTION ------------------------------ */
+.footer__section {
+    background-color: #011e22;
+    height: 225px;
+}
